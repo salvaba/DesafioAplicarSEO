@@ -348,7 +348,7 @@ fieldset{
     width: $width;
 }
 .my_mixin{
-    @include sizes (1024px,40px);
+    @include sizes (1200px,40px);
     background-color: goldenrod;
 
 }
